@@ -1,3 +1,5 @@
+> **Modified copy.** This is a modified copy of toml++ 3.4.0, maintained by Barely Soldered at https://github.com/Barely-Soldered/tomlplusplus (tag v3.4.0-bs.1) for its own projects: rebuilt for meson alone, with platforms and components it does not use removed and the tree restructured. It is not the original software, which is at https://github.com/marzer/tomlplusplus. The licence is unchanged; see LICENSE.
+
 [![banner](docs/images/banner.png)][homepage]
 [![Releases](https://img.shields.io/github/v/release/marzer/tomlplusplus?style=flat-square)](https://github.com/marzer/tomlplusplus/releases)
 [![C++17](docs/images/badge-C++17.svg)][cpp_compilers]
